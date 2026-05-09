@@ -156,14 +156,3 @@ Waiting Period	No-show Rate
 | No | 68,006 | 97.39% |
 | Yes | 1,822 | 2.61% |
 
---------------
-
-## 12. Handicap Distribution
-
-| Handicap Level | Patient Count | Percentage |
-|---|---:|---:|
-| 0 | 68,521 | 98.13% |
-| 1 | 1,185 | 1.70% |
-| 2 | 112 | 0.16% |
-| 3 | 8 | 0.01% |
-| 4 | 2 | 0.00% |
