@@ -1,5 +1,7 @@
 # Data Analyst Task - Artem Healthtech
 
+# Key Insights :
+
 ## 1. Data Cleaning & Standardization
 - Removed duplicate records and handled missing/null values to improve data quality.
 - Filtered dataset to retain only valid positive age values for accurate analysis.
