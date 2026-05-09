@@ -1,4 +1,4 @@
-# Data_Analyst_Task_Artem_Healthtech
+# Data Analyst Task - Artem Healthtech
 
 ## 1. Data Cleaning & Standardization
 - Removed duplicate records and handled missing/null values to improve data quality.
