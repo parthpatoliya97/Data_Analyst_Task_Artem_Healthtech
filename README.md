@@ -96,10 +96,6 @@
 ## 6. Waiting Time Analysis
 
 ### Average waiting period:
-| Appointment Status | Average Waiting Days |
-|---|---:|
-| Showed Up | 13.94 |
-| No-show | 16.17 |
 
 ### Waiting Category Trend
 Waiting Period	No-show Rate
