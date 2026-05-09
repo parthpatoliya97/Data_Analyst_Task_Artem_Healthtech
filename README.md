@@ -134,3 +134,40 @@ Waiting Period	No-show Rate
 | Diabetic | 75.04% | 24.96% |
 ## Key Insight:
 - Patients with diabetes showed comparatively better appointment adherence, possibly due to the importance of regular medical monitoring and treatment continuity.
+
+## 9. Scholarship Distribution
+
+| Scholarship Status | Patient Count | Percentage |
+|---|---:|---:|
+| No | 63,184 | 90.49% |
+| Yes | 6,644 | 9.51% |
+
+----------
+
+## 10.Hipertension Distribution
+
+| Hipertension Status | Patient Count | Percentage |
+|---|---:|---:|
+| No | 54,796 | 78.47% |
+| Yes | 15,032 | 21.53% |
+
+-----------
+
+## 11.Alcoholism Distribution
+
+| Alcoholism Status | Patient Count | Percentage |
+|---|---:|---:|
+| No | 68,006 | 97.39% |
+| Yes | 1,822 | 2.61% |
+
+--------------
+
+## 12. Handicap Distribution
+
+| Handicap Level | Patient Count | Percentage |
+|---|---:|---:|
+| 0 | 68,521 | 98.13% |
+| 1 | 1,185 | 1.70% |
+| 2 | 112 | 0.16% |
+| 3 | 8 | 0.01% |
+| 4 | 2 | 0.00% |
