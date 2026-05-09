@@ -95,8 +95,6 @@
 
 ## 6. Waiting Time Analysis
 
-### Average waiting period:
-
 ### Waiting Category Trend
 Waiting Period	No-show Rate
 | Waiting Period | Showed Up (%) | No-show (%) |
